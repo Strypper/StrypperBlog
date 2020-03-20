@@ -1,0 +1,1 @@
+C:\Users\ocgrb\source\repos\StrypperBlogger\StrypperBlogger\StrypperBlogger.UWP\StrypperBlogger.UWP.csproj;x64

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Droid\\StrypperBlogger.Droid.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Droid\\StrypperBlogger.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Droid\\StrypperBlogger.Droid.csproj",
+        "projectName": "StrypperBlogger.Droid",
+        "projectPath": "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Droid\\StrypperBlogger.Droid.csproj",
+        "packagesPath": "C:\\Users\\ocgrb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Droid\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ocgrb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Filter": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[2.0.532, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[2.0.532, )"
+            },
+            "Uno.UniversalImageLoader": {
+              "target": "Package",
+              "version": "[1.9.32, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

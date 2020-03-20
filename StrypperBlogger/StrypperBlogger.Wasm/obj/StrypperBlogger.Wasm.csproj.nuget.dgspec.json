@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Wasm\\StrypperBlogger.Wasm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Wasm\\StrypperBlogger.Wasm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Wasm\\StrypperBlogger.Wasm.csproj",
+        "projectName": "StrypperBlogger.Wasm",
+        "projectPath": "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Wasm\\StrypperBlogger.Wasm.csproj",
+        "packagesPath": "C:\\Users\\ocgrb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ocgrb\\source\\repos\\StrypperBlogger\\StrypperBlogger\\StrypperBlogger.Wasm\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ocgrb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Filter": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[2.0.532, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[2.0.532, )"
+            },
+            "Uno.Wasm.Bootstrap": {
+              "target": "Package",
+              "version": "[1.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

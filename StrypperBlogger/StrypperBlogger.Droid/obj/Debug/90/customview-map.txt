@@ -1,0 +1,13 @@
+attr;C:\Users\ocgrb\source\repos\StrypperBlogger\StrypperBlogger\StrypperBlogger.Droid\obj\Debug\90\lp\4\jl\res\values\attrs.xml
+declare-styleable;C:\Users\ocgrb\source\repos\StrypperBlogger\StrypperBlogger\StrypperBlogger.Droid\obj\Debug\90\lp\4\jl\res\values\attrs.xml
+item;C:\Users\ocgrb\source\repos\StrypperBlogger\StrypperBlogger\StrypperBlogger.Droid\obj\Debug\90\lp\4\jl\res\values\styles.xml
+item;obj\Debug\90\res\values\styles.xml
+resources;C:\Users\ocgrb\source\repos\StrypperBlogger\StrypperBlogger\StrypperBlogger.Droid\obj\Debug\90\lp\4\jl\res\values\attrs.xml
+resources;C:\Users\ocgrb\source\repos\StrypperBlogger\StrypperBlogger\StrypperBlogger.Droid\obj\Debug\90\lp\4\jl\res\values\styles.xml
+resources;obj\Debug\90\res\values\resources_resw-strings.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+string;obj\Debug\90\res\values\resources_resw-strings.xml
+string;obj\Debug\90\res\values\strings.xml
+style;C:\Users\ocgrb\source\repos\StrypperBlogger\StrypperBlogger\StrypperBlogger.Droid\obj\Debug\90\lp\4\jl\res\values\styles.xml
+style;obj\Debug\90\res\values\styles.xml
